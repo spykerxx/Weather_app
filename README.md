@@ -23,10 +23,9 @@ A simple Android weather app built using **Kotlin**, **Jetpack Compose**, and **
 ## 📱 Screenshots
 <img width="469" height="917" alt="Screenshot 2025-07-21 145117" src="https://github.com/user-attachments/assets/44e9b00f-d39c-414a-8ce1-d55b21e8be94" />
 
-<img width="469" height="927" alt="Screenshot 2025-07-21 145141" src="https://github.com/user-attachments/assets/ab9d76e3-2db4-4a91-bde8-85c0f897d384" />
-
 <img width="475" height="933" alt="Screenshot 2025-07-21 145153" src="https://github.com/user-attachments/assets/838b7999-1794-4de8-ad6c-6079fe3147ea" />
 
+<img width="469" height="927" alt="Screenshot 2025-07-21 145141" src="https://github.com/user-attachments/assets/ab9d76e3-2db4-4a91-bde8-85c0f897d384" />
 
 
 
